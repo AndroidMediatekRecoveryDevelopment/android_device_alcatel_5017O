@@ -18,6 +18,6 @@ Cloning device tree
     
 Make a folder in /devices called alcatel. Copy the 5017O device tree in that /alcatel folder.
 
-Run the cm12b script. 
+Open the terminal and type sh cm12b to run the build script. 
 
 Enjoy.
