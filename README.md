@@ -10,6 +10,8 @@ Initializing repo
     
         repo sync
 
+Or download the compressed CM12.1 source from here: http://forum.xda-developers.com/android/software/sources-android-sources-highly-t3231109
+
 Cloning device tree
     
         git clone https://github.com/kirito96/android_device_alcatel_5017O 5017O
